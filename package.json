@@ -1,0 +1,41 @@
+{
+  "name": "eslint-config-foo",
+  "version": "1.0.0",
+  "description": "Shareable eslint config for Foo() projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FooStudio/eslint-config-foo.git"
+  },
+  "author": {
+    "name": "Foo(Studio)",
+    "email": "developer@foostudio.mx",
+    "url": "http://foostudio.mx"
+  },
+  "keywords": [
+    "eslintconfig",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "jscs",
+    "jshint",
+    "eslint",
+    "jslint",
+    "validate",
+    "code style",
+    "standard",
+    "strict",
+    "check",
+    "jsx",
+    "checker",
+    "verify",
+    "hint"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FooStudio/eslint-config-foo/issues"
+  },
+  "homepage": "https://github.com/FooStudio/eslint-config-foo"
+}
