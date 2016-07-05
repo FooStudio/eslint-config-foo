@@ -4,6 +4,7 @@
 
 module.export = {
     "parser": "babel-eslint",
+    "extends": "eslint:recommended",
     "ecmaFeatures": {
         "jsx": true,
         "modules": true,
@@ -20,11 +21,10 @@ module.export = {
         "browser": true,
         "node": true,
         "es6": true,
-        "es7":true,
         "amd": true
     },
     "setting": {
-        "ecmascript": 7,
+        "ecmascript": 6,
         "jsx": true
     },
     "plugins": [
@@ -239,4 +239,4 @@ module.export = {
         'react/sort-comp': 0,
         'react/wrap-multilines': 2
     }
-}
+};
